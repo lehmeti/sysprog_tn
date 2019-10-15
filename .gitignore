@@ -1,0 +1,10 @@
+/sysprog_01.X/dist/
+/sysprog_01.X/build/
+sysprog_01.X/.DS_Store
+sysprog_01.X/nbproject/Makefile-default.mk
+*.mk
+sysprog_01.X/nbproject/Makefile-genesis.properties
+sysprog_01.X/nbproject/Makefile-local-default.mk
+sysprog_01.X/nbproject/private/configurations.xml
+sysprog_01.X/nbproject/private/private.xml
+sysprog_01.X/nbproject/private/configurations.xml
